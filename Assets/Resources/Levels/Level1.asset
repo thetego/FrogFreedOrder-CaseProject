@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a4d8209d1e5d86418b4c83161096e0b, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  moveLimit: 5
+  layers:
+  - layerNumber: 0
+    cells:
+    - row: 0
+      column: 0
+      color: 1
+      type: 3
+      direction: 0
+    - row: 0
+      column: 1
+      color: 3
+      type: 3
+      direction: 0
+    - row: 0
+      column: 2
+      color: 4
+      type: 3
+      direction: 0
+    - row: 0
+      column: 3
+      color: 2
+      type: 3
+      direction: 2
+    - row: 1
+      column: 0
+      color: 1
+      type: 3
+      direction: 0
+    - row: 1
+      column: 1
+      color: 3
+      type: 3
+      direction: 0
+    - row: 1
+      column: 2
+      color: 4
+      type: 3
+      direction: 0
+    - row: 1
+      column: 3
+      color: 2
+      type: 3
+      direction: 0
+    - row: 2
+      column: 0
+      color: 1
+      type: 3
+      direction: 0
+    - row: 2
+      column: 1
+      color: 3
+      type: 3
+      direction: 0
+    - row: 2
+      column: 2
+      color: 4
+      type: 3
+      direction: 0
+    - row: 2
+      column: 3
+      color: 2
+      type: 3
+      direction: 0
+    - row: 3
+      column: 0
+      color: 1
+      type: 1
+      direction: 3
+    - row: 3
+      column: 1
+      color: 3
+      type: 1
+      direction: 3
+    - row: 3
+      column: 2
+      color: 4
+      type: 1
+      direction: 3
+    - row: 3
+      column: 3
+      color: 2
+      type: 1
+      direction: 3
